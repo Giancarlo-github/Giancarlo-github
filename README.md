@@ -1,7 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+full+stak+developer+from" alt="Typing SVG" /></a>
 
 <h1 align="center">Hi , 👋 I'm Giancarlo</h1>
 <h3 align="center">A passionate full stak developer from Chile</h3>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+have+developed+software+with;++the+following+technologies%3A" alt="Typing SVG" /></a>
 
 <p align="left">
 </p>
