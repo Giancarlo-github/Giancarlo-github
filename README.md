@@ -21,7 +21,7 @@
 <h3 align="left">Back end:</h3>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> </a>
-<a href="#"><img src="https://e7.pngegg.com/pngimages/778/255/png-clipart-sqlite-database-android-mysql-android-text-logo-thumbnail.png" alt="Sqlite" width="50" height="50"/></a> 
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/778/255/png-clipart-sqlite-database-android-mysql-android-text-logo-thumbnail.png" alt="Sqlite" width="50" height="50"/></a> 
 
 <h3 align="left">Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a> 
