@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/785/145/png-transparent-java-development-kit-software-development-kit-computer-programming-computer-icons-programming-language-icon-text-logo-computer-programming.png" alt="java" width="50" height="50"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a> 
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a>    
 
