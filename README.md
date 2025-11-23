@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , 👋 I'm Giancarlo</h1>
+<h1 align="center">Hi , https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966 I'm Giancarlo</h1>
 <h3 align="center">A passionate full stak developer from Chile</h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+have+developed+software+with;++the+following+technologies%3A" alt="Typing SVG" /></a>
